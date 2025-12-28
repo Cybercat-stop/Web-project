@@ -1,0 +1,19 @@
+/* tag name de var id tek sefer class istediğine  */
+#blog-color{
+    background-color:orange;
+    color:black;
+    justify-content: center;
+    text-align: center;
+}
+.blog-font{
+    background-color: black;
+    color:white;
+}
+.cat-set{
+    padding:10px;
+    margin:20px
+}
+*{
+    margin:0px;
+    padding:0px;
+}
